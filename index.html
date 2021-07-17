@@ -78,28 +78,17 @@
       },
       namespaces: [
         {
-      id: "lang",
-      // recognizable values
-      values: ["en", "zh"],
-      // whether this namespace must be present in the path or not
-      optional: true,
-      selector: "#lange_selector"
-      }],
+          id: "lang",
+          // recognizable values
+          values: ["en", "zh"],
+          // whether this namespace must be present in the path or not
+          optional: true,
+          selector: "#lange_selector"
+        }
+      ],
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
         ,'/.*/_navbar.md': '/_navbar.md'
-      //},
-      //markdown: {
-      //  renderer: {
-      //    code: function(code, lang) {
-      //      if (lang === "mermaid") {
-      //        return (
-      //          '<div class="mermaid">' + mermaid.render('mermaid-svg-' + num++, code) + "</div>"
-      //        );
-      //      }
-      //      return this.origin.code.apply(this, arguments);
-      //    }
-      //  }
       }
     }
     if (typeof navigator.serviceWorker !== 'undefined') {
@@ -117,8 +106,8 @@
   <script src="/vendor/docsify/current/plugins/docsify-pagination.min.js"></script>
   <script src="/vendor/docsify/current/plugins/docsify-tabs.js"></script>
   <script src="/vendor/docsify/current/plugins/emoji.min.js"></script>
-  <script src="/vendor/docsify/current/plugins/docsify-namespaced.min.js<script>
   <script src="/vendor/docsify/current/plugins/docsify-plugin-flexible-alerts.min.js"></script>
+  <!--<script src="/vendor/docsify/current/plugins/docsify-namespaced.min.js"><script>-->
 </body>
 </html>
 
