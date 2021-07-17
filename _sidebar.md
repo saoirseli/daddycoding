@@ -1,1 +1,3 @@
 - [HOME](README.md)
+- [VCS](vcs/README.md)
+- [Python](python/README.md)
