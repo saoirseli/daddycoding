@@ -1,1 +1,1 @@
-- [HOME](README.md)
+- [Language](https://daddycoding.icsteve.com/zh/)
