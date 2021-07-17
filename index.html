@@ -6,8 +6,10 @@
   <meta charset="UTF-8">
   <link rel="stylesheet" href="/vendor/docsify/current/themes/buble.min.css">
   <link rel="stylesheet" href="/vendor/mermaid/current/mermaid.min.css">
+  <link rel="stylesheet" href="/vendor/docsify/current/plugins/sidebar.min.css">
   <script data-ad-client="ca-pub-7788111869803337" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <script src="/vendor/mermaid/current/mermaid.min.js"></script>
+  <script src="/vendor/docsify/current/plugins/docsify-ethicalads.min.js"></script>
   <title>DaddyCoding</title>
   <style>
     :root {
@@ -91,7 +93,12 @@
         '/.*/_sidebar.md': '/_sidebar.md'
         ,'/.*/_navbar.md': '/_navbar.md'
       },
-      sidebarDisplayLevel: 1
+      sidebarDisplayLevel: 1,
+      plugins: [
+        DocsifyEthicalAds.create('ethicalads-publisher-id', {
+            type: 'image'
+        })
+      ]
     }
     if (typeof navigator.serviceWorker !== 'undefined') {
       navigator.serviceWorker.register('sw.js')
