@@ -90,7 +90,8 @@
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
         ,'/.*/_navbar.md': '/_navbar.md'
-      }
+      },
+      sidebarDisplayLevel: 1
     }
     if (typeof navigator.serviceWorker !== 'undefined') {
       navigator.serviceWorker.register('sw.js')
@@ -106,7 +107,7 @@
   <script src="/vendor/docsify/current/plugins/docsify-tabs.js"></script>
   <script src="/vendor/docsify/current/plugins/emoji.min.js"></script>
   <script src="/vendor/docsify/current/plugins/docsify-plugin-flexible-alerts.min.js"></script>
-  <!--<script src="/vendor/docsify/current/plugins/docsify-namespaced.min.js"><script>-->
+  <script src="/vendor/docsify/current/plugins/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>
 
