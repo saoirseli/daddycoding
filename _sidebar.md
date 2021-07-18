@@ -1,4 +1,5 @@
 - [HOME](README.md)
-- [VCS](basis/vcs.md)
+- Basis
+  - [VCS](basis/vcs.md)
   - [git](basis/git.md)
 - [Python](python/README.md)
