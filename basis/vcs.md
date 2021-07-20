@@ -75,8 +75,6 @@ ls
 
 [More Git Knowledge and Practice](git.md)
 
-## Homework
-
 [Homework 1](../homework/basis_vcs.md ':include')
 
 ## Reference

@@ -1,4 +1,4 @@
-# Python for Kid - Homework 1
+## Python for Kid - Homework 1
 
 - Review the Version Control Concept
 - Install git and vsc environment
