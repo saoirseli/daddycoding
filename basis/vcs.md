@@ -32,7 +32,7 @@ Let's see how git resolve these problems.
 
 ## Use "github"
 
-Now let's create an account in "https://github.com",
+Now let's create an account in "[Github](https://github.com)",
 
 Follow github's guide to sign up with a user name or email.
 
