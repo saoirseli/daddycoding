@@ -1,5 +1,7 @@
 # Version Control System
 
+[查看中文版](../zh/basis/vcs.md)
+
 VCS (version control system) is any kind of practice that tracks and provides control over changes to source code.
 
 If you are using google doc, you will see the "Version History" link.
@@ -47,7 +49,7 @@ Let me assume most of readers are studying in Windows 10 OS.
 
 ## Install "Visual Studio Code"
 
-We will use local editor "Cisual Studio Code" as the main code editor.
+We will use local editor "Visual Studio Code" as the main code editor.
 
 We also use online environement for quick code explaination.
 
