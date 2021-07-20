@@ -64,12 +64,16 @@ In the terminal with "Git Bash", try to clone the repository we just created in 
 cd ~
 git clone https://github.com/<your user name>/python_for_kids_homework.git
 cd python_for_kids_homework
+ls
 ```
+
+- `cd` is a command which is used to `Change Directory`
+- `git clone` is a command which follows the pattern `<main command> <sub command>`
+- `ls` is a command to list all the files in current direcotry.
 
 ## More git skills
 
-[Git Practise](git.md)
-
+[More Git Knowledge and Practice](git.md)
 
 ## Homework
 
@@ -83,4 +87,9 @@ cd python_for_kids_homework
 
 ## Extend Reading
 
+- [Pro Git](https://git-scm.com/book/en/v2) is **highly recommended reading**. Going through Chapters 1–5 should teach you most of what you need to use Git proficiently, now that you understand the data model. The later chapters have some interesting, advanced material.
+- [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) is a detailed explanation of Git’s implementation details beyond just the data model, for the curious.
+- [How to explain git in simple words](https://xosh.org/explain-git-in-simple-words/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2sjqTHE0zok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
