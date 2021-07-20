@@ -1,5 +1,6 @@
 - [HOME](README.md)
 - Basis
-  - [VCS](basis/vcs.md)
-  - [git](basis/git.md)
-- [Python](python/README.md)
+  - [Version Control](basis/vcs.md)
+- [Python for kids](python/README.md)
+- [Web design from scratch](web/README.md)
+- [Show me your doc](doc/README.md)

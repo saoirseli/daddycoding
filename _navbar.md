@@ -1,1 +1,1 @@
-- [Language](https://daddycoding.icsteve.com/zh/)
+- [Github](https://github.com/saoirseli/daddycoding)
