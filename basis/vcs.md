@@ -1,6 +1,6 @@
 # Version Control System
 
-[查看中文版](../zh/basis/vcs.md)
+[查看中文版](/zh/basis/vcs.md)
 
 VCS (version control system) is any kind of practice that tracks and provides control over changes to source code.
 
@@ -75,7 +75,7 @@ ls
 
 ## More git skills
 
-[More Git Knowledge and Practice](git.md)
+[More Git Knowledge and Practice](/basis/git.md)
 
 [Homework 1](../homework/basis_vcs.md ':include')
 

@@ -1,5 +1,7 @@
 ## 版本控制系统
 
+[View English Version](/basis/vcs.md)
+
 VCS（version control system）是任何一种跟踪和提供对源代码变化控制的做法。
 
 如果你在使用google doc，你会看到 "版本历史 "链接。
@@ -47,7 +49,7 @@ VCS（version control system）是任何一种跟踪和提供对源代码变化�
 
 ## 安装 "Visual Studio Code"。
 
-我们将使用本地编辑器 "Visual Studio Code "作为主要代码编辑器。
+我们将使用本地编辑器 "Visual Studio Code" 作为主要代码编辑器。
 
 我们也使用在线环境来快速解释代码。
 
@@ -71,7 +73,7 @@ ls
 
 ##　更多git技能
 
-[更多git 扩展和练习](git.md)
+[更多git 扩展和练习](/basis/git.md)
 
 
 [Homework 1](../homework/basis_vcs.md ':include')
